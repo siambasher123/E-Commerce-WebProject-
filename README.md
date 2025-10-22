@@ -1,4 +1,4 @@
-# 🛍️ eCommerce Website
+# 🛍️ E-Commerce Website
 
 Welcome to the **eCommerce Website Project** — a modern and full-featured online shopping platform built for a seamless customer experience. It includes everything from browsing products and managing carts to secure payments and admin control.
 
